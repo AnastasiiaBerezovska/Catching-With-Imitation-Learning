@@ -1,15 +1,16 @@
-1. base.py
+## Data Folder Descriptions
 
-    Description: Acts as the base module, providing core functions that other scripts can extend or utilize (Acquired from Robosuites GitHub)
+1. **base.py**  
+   *Description:* Acts as the base module, providing core functions that other scripts can extend or utilize.  
+   *(Acquired from Robosuite GitHub)*
 
-2. door.py
+2. **door.py**  
+   *Description:* Sets up or manipulates data related to door-specific operations in the environment.  
+   *(Acquired from Robosuite GitHub)*
 
-    Description: Sets up or manipulates data related to door-specific operations in the environment (Acquired from Robosuite GitHub)
+3. **fri_convert_all.py**  
+   *Description:* Converts various data files into a standardized format.
 
-3. fri_convert_all.py
-
-    Description: Converts various data files into a standardized format.
-
-4. liftOriginalCopy.py
-
-    Description: Contains the original environment setup or data manipulations for the lift environment (Acquired from Robosuite GitHub and Updated)
+4. **liftOriginalCopy.py**  
+   *Description:* Contains the original environment setup or data manipulations for the lift environment.  
+   *(Acquired from Robosuite GitHub and updated)*
