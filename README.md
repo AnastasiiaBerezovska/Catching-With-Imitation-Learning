@@ -3,9 +3,9 @@ This repository contains scripts and resources for implementing a catching behav
 The Catching-With-Imitation-Learning project is a machine learning-based approach to robotic interaction and movement, focusing on imitation learning to teach a robot to catch an object. 
 
 The repository contains:  
-    Code for setting up and modifying the training environment.
-    Scripts to capture and collect human demonstration data.
-    Tools for training and evaluating model checkpoints.
-    A final simulation video that showcases the trained model's performance.
+    * Code for setting up and modifying the training environment.
+    * Scripts to capture and collect human demonstration data.
+    * Tools for training and evaluating model checkpoints.
+    * A final simulation video that showcases the trained model's performance.
     
 This project was developed as part of the Freshman Research Initiative at UT Austin in the Robot Interactive Intelligence (RobIn) Lab.
