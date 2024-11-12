@@ -47,4 +47,4 @@
 
 13. trainModified.py
 
-    Description: Modified training script that implements specific training configurations or adjustments tailored for this project (Acquired from RObosuite GitHub and Updated)
+    Description: Modified training script that implements specific training configurations or adjustments tailored for this project (Acquired from Robosuite GitHub and Updated)
