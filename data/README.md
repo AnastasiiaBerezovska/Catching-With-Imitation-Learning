@@ -1,4 +1,4 @@
-## Data Folder Descriptions
+## Data Folder
 
 1. **base.py**  
    *Description:* Acts as the base module, providing core functions that other scripts can extend or utilize.  
