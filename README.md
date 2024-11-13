@@ -9,3 +9,5 @@ The repository contains:
 - A **final simulation video** that showcases the trained model's performance.
 
 This project was developed as part of the **Freshman Research Initiative** at **UT Austin** in the **Robot Interactive Intelligence (RobIn) Lab**.
+
+![image](https://github.com/user-attachments/assets/d687c035-c941-4c9b-ab50-5e330b3c80f3)
